@@ -1,0 +1,10 @@
+
+The relationship between speed of sound in air and temperature is : v = 331m/s + (0.6m/s/C)×T ; where T is the temperature in degree Celsius. Using a temperature sensor, 
+determine the temperature of the room. Using the temperature determined, calculate the speed of sound in air using the appropriate sensor, and verify the percentage error 
+in the value calculated through the formula, with value from the sensor. Also, print the result on the serial monitor.
+
+Submission Format :
+	Submit a pull request of your folder in this repository. The folder should contain the following :
+		-Tinkercad link in readme
+		-A cpp file that contains your code.
+	Rest abide the rules of submission as metioned in the repository readme.
