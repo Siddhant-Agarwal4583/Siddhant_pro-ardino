@@ -1,7 +1,7 @@
 # Pro-Arduino
 
 Folder of question will be named as **X Points Problem**. Here *X* is the maximum points that one gets on providing correct code for that problem.
-Every question problem contains a **readme** in the readme you will find the problem
+Every question problem contains a **readme**.In the readme you will find the problem
 All the qualified participants shall abide the following conditions:
 1. In every Problem a folder is created for accepting solutions. The folder is named **Answers**. 
 2. Every Participant must create a folder of his/her name in **Answer** folder.
