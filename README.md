@@ -2,7 +2,7 @@
 Final Rounds Of Pro-Arduino.
 All the qualified participants shall abide the following conditions:
 
-1. In every Problem a folder is created for accepting solutions. The folder is named **Answers. 
+1. In every Problem a folder is created for accepting solutions. The folder is named **Answers**. 
 2. Every Participant must create a folder of his/her name in **Answer** folder.
 3. In that folder he should submit the following: 
     - **.cpp/.txt** file that contains the code which is exactly same as in your tinkercad account.
