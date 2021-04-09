@@ -1,0 +1,11 @@
+Lia is an artist , hosting an exhibition. She appointed two of her children Joe and Jack to keep a count of the number of visitors at any 
+moment inside the room. Due to the large number of visitors, Joe and Jack could not synchronise their countings at the only 2 doors of the room.
+One door is for entry and the other is for exit, is a strict rule. Crowd is genuine and it follows the rules.
+To make it accurate, Jack is asking for your help in order to maintain the count of people in one room at any moment.
+HELP HIM!
+
+Submission Format :
+	Submit a pull request of your folder in this repository. The folder should contain the following :
+		-Tinkercad link in readme
+		-A cpp file that contains your code.
+	Rest abide the rules of submission as metioned in the repository readme.
