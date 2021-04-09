@@ -2,7 +2,7 @@ Jack's mom has ordered him and his younger brother to study.
 But being notorious sons they want to watch a movie when she is at a safe distance from their room. 
 They have observed that they can get all cleaned up and can deceive their mom that they were studying if they can know she is coming towards their room. 
 Jack being the elder one comes to you, Arduino expert and a good friend of his. He want you to design a circuit capable of doing the following :
-When their mom is 323 cm away from their room a buzzer should sound in the following pattern: 10101010.
+When their mom is 300 cm away from their room a buzzer should sound in the following pattern: 10101010.
 But as they might be wearing earphones they may not hear the buzzer. So they also want a red LED to reflect the same pattern of buzzer.
 As soon as their mom enters the room the led should go off and so should the buzzer. Because if mom hears the buzzer she would know about this master plan.
 
